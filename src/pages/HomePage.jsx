@@ -11,13 +11,6 @@ import CallToAction from "../components/CallToAction";
 import Footer from "../components/Footer";
 import '../App.css'
 
-
-
-
-
-
-
-
 function HomePage() {
     return (
       <div>

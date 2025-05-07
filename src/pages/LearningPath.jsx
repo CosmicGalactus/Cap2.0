@@ -7,7 +7,7 @@ function LearningPaths() {
     return (
       <div>
         <Navbar />
-        
+        <p>Under Constuction 🚜 </p>
       </div>
     );
   }
