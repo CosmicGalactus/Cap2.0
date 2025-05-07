@@ -5,6 +5,9 @@ body {
   color: #222;
   line-height: 1.6;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 section {
   margin-bottom: 3.5rem;
